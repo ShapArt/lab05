@@ -1,11 +1,6 @@
-name: bank
-
-on:
-  push:
-    branches: main
-
-  workflow_dispatch:
-      
+name: banking
+on: [push]
+  
 jobs:
 
   BuildProject:
