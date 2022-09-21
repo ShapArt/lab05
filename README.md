@@ -1,5 +1,5 @@
 ## Laboratory work V
-
+[![Coverage Status](https://coveralls.io/repos/github/ShapArt/lab05/badge.svg?branch=master)](https://coveralls.io/github/ShapArt/lab05?branch=master)
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
 
 ```sh
